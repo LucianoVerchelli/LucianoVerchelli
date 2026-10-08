@@ -20,10 +20,6 @@
 🧩 Experiencia académica trabajando con C++ y programación orientada a objetos  
 🚀 Interesado en seguir aprendiendo y desarrollando proyectos reales
 
-</div>
-
-<br>
-
 <h2 align="center">Tecnologías y herramientas 🛠️</h2>
 
 <div align="center">
@@ -31,16 +27,22 @@
 <h3>Lenguajes</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,html,css,sql&theme=light" />
 </a>
 
-<h3>Frontend & Web</h3>
+<h3>Frontend</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,vite&theme=light" />
 </a>
 
-<h3>CMS & herramientas</h3>
+<h3>Backend</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+</a>
+
+<h3>CMS & Herramientas</h3>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode&theme=light" />
@@ -73,8 +75,6 @@ Mantenimiento, optimización y configuración de sitios web desarrollados con Wo
 
 - Desarrollo de software
 - Programación orientada a objetos
-- Desarrollo web
-- Bases de datos
 - Buenas prácticas de programación
 - Git y GitHub
 
@@ -87,7 +87,6 @@ Mantenimiento, optimización y configuración de sitios web desarrollados con Wo
 <div align="center">
 
 <a href="https://github.com/LucianoVerchelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoVerchelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVerchelli&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
