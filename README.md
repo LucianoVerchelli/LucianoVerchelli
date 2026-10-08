@@ -1,66 +1,104 @@
-## Hi there 👋
 
-<h1 align="center">Hola 👋  Luciano Verchelli ✨ </h1> 
+
+<h1 align="center">Hola 👋 Soy Luciano Verchelli ✨</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
-  </p>
+  <a href="https://github.com/LucianoVerchelli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 <br>
-<h1 align=center>Sobre mi 😃</h1>
-<!--Intro start-->
+
+<h2 align="center">Sobre mí 👨🏻‍💻</h2>
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack e IA developer
 
-📫 Contacto: **antonioestudiante15@gmail.com**  
+🎓 Estudiante de programación y desarrollo de software  
+💻 Desarrollador en formación  
+🌐 Desarrollo de aplicaciones web y sitios con React, Vite y WordPress  
+🧩 Experiencia académica trabajando con C++ y programación orientada a objetos  
+🚀 Interesado en seguir aprendiendo y desarrollando proyectos reales
+
 </div>
 
-
 <br>
 
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
-<!--tech stack icons-->
-<div align=center>
-   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
-  </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
-  </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
-<br>
-<div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
+<h2 align="center">Tecnologías y herramientas 🛠️</h2>
+
+<div align="center">
+
+<h3>Lenguajes</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,html,css&theme=light" />
 </a>
-</div>
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Anton-dev3306&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+
+<h3>Frontend & Web</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=light" />
+</a>
+
+<h3>CMS & herramientas</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode&theme=light" />
+</a>
+
 </div>
 
-------
-[Anton-dev3306](https://github.com/Anton-dev3306)
+<br>
 
-Last Edited on: 12/07/2025
+<h2 align="center">Proyectos 💻</h2>
+
+<div align="center">
+
+🔹 **Desarrollo Web**  
+Aplicaciones y sitios web desarrollados utilizando tecnologías como React, Vite, HTML y CSS.
+
+🔹 **Programación II**  
+Desarrollo de proyectos en C++ aplicando programación orientada a objetos, manejo de archivos y estructuras de datos.
+
+🔹 **Proyectos WordPress**  
+Mantenimiento, optimización y configuración de sitios web desarrollados con WordPress.
+
+</div>
+
+<br>
+
+<h2 align="center">Actualmente aprendiendo 📚</h2>
+
+<div align="center">
+
+- Desarrollo de software
+- Programación orientada a objetos
+- Desarrollo web
+- Bases de datos
+- Buenas prácticas de programación
+- Git y GitHub
+
+</div>
+
+<br>
+
+<h2 align="center">Mis estadísticas 📊</h2>
+
+<div align="center">
+
+<a href="https://github.com/LucianoVerchelli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoVerchelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVerchelli&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+</div>
+
+<br>
+
+<h2 align="center">¡Gracias por visitar mi perfil! 👋</h2>
+
+<div align="center">
+
+⭐ Siempre aprendiendo, desarrollando y mejorando.
+
+</div>
